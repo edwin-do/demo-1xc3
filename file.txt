@@ -2,4 +2,4 @@ Here are some changes to this file
 
 I made this change locally on my computer
 
-This tool is okay, I kinda like it
+This is a really cool tool
